@@ -1,2 +1,2 @@
 # bash-cp-program
-simple cp implementation
+simple cp program implementation
